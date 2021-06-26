@@ -1,0 +1,19 @@
+.title{
+    color: rgb(255, 174, 0);
+    text-shadow:#111111;
+    font-size: 50px;
+  }
+p {
+    font-family: "UD Digi Kyokasho NP-R";
+    font-size:20px;
+
+}
+h1,h2,h3,h4,h5,h6 {
+    font-family: "UD Digi Kyokasho NP-R";
+}
+.header {
+    background-color:#888;
+}
+.main{
+    background-color:#00ffff;
+}
